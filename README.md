@@ -14,4 +14,11 @@ React web application for searching and displaying the most trending movies.
   <img src="GitHubImages/Screenshot 2025-03-14 at 03.37.05.png" width="750">
 </p>
 
+<br/>
+<br/>
+
+<p align="center">
+  <img src="GitHubImages/Screenshot 2025-03-14 at 03.37.21.png" width="750">
+</p>
+
 
